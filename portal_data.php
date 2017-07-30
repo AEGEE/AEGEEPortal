@@ -2,7 +2,7 @@
 $portal_data = [
     "External" => [
         [
-            "url"           => "aegee.org",
+            "url"           => "http://aegee.org",
             "title"         => "AEGEE Website",
             "description"   => "Official website",
             "img"           => "default-blue.png",
@@ -32,7 +32,7 @@ $portal_data = [
     ],
     "Members" => [
         [
-            "url"           => "www.intranet.aegee.org",
+            "url"           => "http://intranet.aegee.org",
             "title"         => "Intranet",
             "description"   => "European Events and internal documents ",
             "img"           => "default-yellow.png",
@@ -60,7 +60,7 @@ $portal_data = [
             "color"         => "#FBBA00",
         ],
         [
-            "url"           => "aegee.org/wiki",
+            "url"           => "http://aegee.org/wiki",
             "title"         => "AEGEE Wiki",
             "description"   => "A collaborative knowledge backbone of AEGEE",
             "img"           => "wiki.png",
